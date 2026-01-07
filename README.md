@@ -81,21 +81,11 @@ smart-cv-sorter/
 ## Objectif du projet
 
 Ce projet a été conçu comme :
-- un projet IA valorisable sur un CV
 - un support technique pour entretien ou soutenance
 - une base solide pour un futur modèle ML entraîné
 
 ---
 
-## Pistes d’amélioration
-
-- Entraînement d’un modèle supervisé de scoring
-- Pondération avancée des compétences métiers
-- Explicabilité détaillée des scores
-- Détection de profils incohérents ou surqualifiés
-- Historique et comparaison de campagnes de recrutement
-
----
 
 ## Auteur
 
